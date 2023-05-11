@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+body {
+    width: 1152px;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+.basliq{
+    width: 1152px;
+    height: 50px;
+    background-color: #F5F5F6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+}
+.menu {
+    display: flex;
+}
+.bank{
+    background-image: url('./Asset\ 1@3x\ 1\ \(1\).png');
+    width: 89px;
+    height: 23px;
+    top: 20px;
+    left: 100px;
+    
+}
+.bank1{
+    width: 44px;
+    height: 19px;
+    top: 17px;
+    left: 253px;
+    
+    font-size: 11px;
+    font-weight: 500;
+    
+    
+    color: #000000;
+}
+.biznes{
+    width: 50px;
+    height: 19px;
+    top: 17px;
+    left: 310px;
+    
+    font-size: 11px;
+    font-weight: 500;
+    
+    
+    color: #959BA4;
+}
+.invest{
+    width: 94px;
+    height: 19px;
+    top: 17px;
+    left: 381px;
+    
+    font-size: 11px;
+    font-weight: 500;
+    
+    
+    color: #959BA4;
+}
+.strax{
+    width: 94px;
+    height: 19px;
+    top: 17px;
+    left: 486px;
+    
+    font-size: 11px;
+    font-weight: 500;
+    
+    
+    color: #959BA4;
+}
+.mobayl{
+    width: 94px;
+    height: 19px;
+    top: 17px;
+    left: 596px;
+    
+    font-size: 11px;
+    font-weight: 500;
+    
+    
+    color: #959BA4;
+}
+.putes{
+    width: 94px;
+    height: 19px;
+    top: 17px;
+    left: 671px;
+    
+    font-size: 11px;
+    font-weight: 500;
+    
+    
+    color: #959BA4;
+}
+.razvle{
+    width: 94px;
+    height: 19px;
+    top: 17px;
+    left: 782px;
+    
+    font-size: 11px;
+    font-weight: 500;
+    
+    
+    color: #959BA4;
+}
+.voyti{
+    width: 58px;
+    height: 33px;
+    top: 13px;
+    left: 992px;
+    
+    font-size: 11px;
+    font-weight: 500;
+    
+    
+    color: #000000;
+    background-color: white;
+    border: 1px solid white;
+}
+.kh {
+    width: 700px;
+    margin: 100px auto;
+}
+.cay40 {
+    display: flex;
+    justify-content: space-between;
+}
+.h2{
+    width: 587px;
+    height: 32px;
+    top: 106px;
+    left: 253px;
+    
+    font-size: 36px;
+    font-weight: 700;
+    
+    
+    color: #000000;
+}
+.h41{
+    width: 120px;
+    height: 28px;
+    top: 200px;
+    left: 253px;
+    
+    font-size: 12px;
+    font-weight: 400;
+    
+    
+    color: #959BA4;
+}
+.h42{
+    width: 120px;
+    height: 28px;
+    top: 200px;
+    left: 635px;
+    
+    font-size: 12px;
+    font-weight: 400;
+    
+    
+    color: #959BA4;
+}
+.duymeb, .duymeb1{
+    height: 30px;
+    border: 1px solid #E5E5E5;
+    border-radius: 3px;
+    display: flex;
+} 
+.br{
+    width: 25%;
+    height: 30px;
+    top: 240px;
+    left: 255px;
+    border: 1px solid #C6C6C6;
+    border-radius: 3px 0px 0px 3px;
+    color: #C6C6C6;
+}
+.bu{
+    width: 25%;
+    height: 30px;
+    top: 240px;
+    left: 319px;
+    color: #C6C6C6;
+    border: 1px solid #C6C6C6;
+}
+.be{
+    width: 25%;
+    height: 30px;
+    top: 240px;
+    left: 382px;
+    color: #C6C6C6;
+    border: 1px solid #C6C6C6;
+}
+.bg{
+    width: 25%;
+    height: 30px;
+    top: 240px;
+    left: 444px;
+    color: #C6C6C6;
+    border: 1px solid #C6C6C6;
+    border-radius: 0px 3px 3px 0px;
+}
+.i1{
+    margin-top: 50px;
+    width: 259px;
+    height: 102px;
+    top: 300px;
+    left: 253px;
+    border-radius: 3px;
+    border: 1px solid #E5E5E5;;
+    font-size: 36px;
+    font-weight: 700;
+    padding-top: 13px;
+    padding-bottom: 53px;
+    padding-left: 14px;
+    padding-right: 78px;
+}
+.br1{
+    width: 25%;
+    height: 30px;
+    top: 240px;
+    left: 636px;
+    border-radius: 3px 0px 0px 3px;
+    border: 1px solid #C6C6C6;
+    color: #C6C6C6;
+}
+.bu1{
+    
+    width: 25%;
+    height: 30px;
+    
+    color: #C6C6C6;
+    border: 1px solid #C6C6C6;
+}
+.be1{
+    
+    width: 25%;
+    height: 30px;
+    color: #C6C6C6;
+    border: 1px solid #C6C6C6;
+}
+.bg1{
+    
+    width: 25%;
+    height: 30px;
+    color: #C6C6C6;
+    border: 1px solid #C6C6C6;
+    border-radius: 0px 3px 3px 0px;
+}
+.b-active {
+    background-color: #833AE0;
+    border: 1px solid #833AE0;
+}
+.i12{
+    padding-top: 13px;
+    margin-top: 50px;
+    width: 259px;
+    height: 102px;
+    top: 300px;
+    left: 635px;
+    border-radius: 3px;
+    border: 1px solid #E5E5E5;
+    font-size: 36px;
+    font-weight: 700;
+    padding-bottom: 53px;
+    padding-left: 14px;
+    padding-right: 78px;
+}
